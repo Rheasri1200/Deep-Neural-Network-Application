@@ -1,2 +1,2 @@
-# Deep-Neural-Network-Application
+# Deep-Neural-Network for Image-Classification
 It is about a deep Neural Network that classifies cat vs. non-cat images.Earlier I have build this with Logistic Regression but the accuracy was only 70%, but this time it gave an accuracy of 98%.This project teaches use all the helper functions to  build a model of any structure you want.  - Experiment with different model architectures and see how each one behaves.  - Recognize that it is always easier to build your helper functions before attempting to build a neural network from scratch.
